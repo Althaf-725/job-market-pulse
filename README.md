@@ -1,5 +1,10 @@
 # Job Market Pulse - Real-Time Skill Demand and Salary Intelligence
 
+![Python](https://img.shields.io/badge/Python-3.9+-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Live-red)
+![ML](https://img.shields.io/badge/ML-Random%20Forest-green)
+![Records](https://img.shields.io/badge/Records-90%2C000-orange)
+
 ## Live Dashboard
 https://job-market-pulse-hqc6evyqecnn3fvhdbunup.streamlit.app/
 
@@ -10,6 +15,10 @@ Job seekers need data-backed answers to:
 - How does remote work affect pay?
 - Which industries are hiring most?
 
+## Project Overview
+An end-to-end data analytics project analyzing 90,000 real global AI and data science job records
+to provide actionable salary intelligence for job seekers and professionals.
+
 ## Key Insights
 - Machine Learning and AI roles earn 5% above market average
 - Data Analytics roles earn 28% below market average
@@ -17,6 +26,18 @@ Job seekers need data-backed answers to:
 - USA pays 30% more than most countries for data roles
 - Retail and Gaming pay more than Finance and Tech
 - Salary recovering strongly in 2025-2026 after 2024 dip
+
+## Features
+- Interactive filters by Experience, Work Type, Company Size, Industry
+- Salary distribution analysis
+- Experience level vs salary comparison
+- Remote vs Onsite vs Hybrid pay gap analysis
+- Skill category salary lift chart
+- Top 10 countries by average salary
+- Top 10 industries by average salary
+- Top AI specializations by salary
+- Salary trend over years (2020-2026)
+- AI-powered salary predictor
 
 ## Tech Stack
 - Python, Pandas, NumPy
